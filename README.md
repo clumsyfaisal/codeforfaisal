@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**codeforfaisal/codeforfaisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 👉 I am Faisal 👨‍💻
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning Design, Digital Marketing
+- 🧐 I love to do and explore amazing things with Python
+- 👯 I’m looking to collaborate with Content Creators
+- 🤔 I’m looking for help with Digital Marketing Tools
+- 💬 Ask me about Core & Advanced Python, Javascript, Full Stack Development, Python Framework - ODOO for ERP and Django for Web
+- 📫 How to reach me: [@_faisal_ansari](https://twitter.com/_faisal_ansari)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I know it's crazy but I love to eat 😋
