@@ -1,6 +1,5 @@
 ### Hi there 👋 👉 I am Faisal 👨‍💻
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Design, Digital Marketing
